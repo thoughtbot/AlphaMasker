@@ -10,6 +10,10 @@ Turn any transparent PNG into a frame with adjustable color.
 1. Run AlphaMasker
 1. Change the color of the resulting frame to the desired color
 
+
+https://user-images.githubusercontent.com/3891632/141216472-18207cef-1074-49ff-8ff7-3d79e5c156da.mp4
+
+
 ## Setup
 
 Below are the steps to get your plugin running. You can also find instructions at:
